@@ -1,0 +1,11 @@
+<resources>
+
+    <!-- Base application theme. -->
+    <style name="AppTheme" parent="android:Theme.Holo.Light.DarkActionBar">
+        <item name="android:windowBackground">@drawable/skyguys</item>
+    </style>
+
+    <style name="AppThemeMain" parent="Theme.AppCompat.DayNight">
+    </style>
+
+</resources>
